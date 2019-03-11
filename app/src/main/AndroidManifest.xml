@@ -20,7 +20,7 @@
 
         <meta-data
             android:name="io.storage.StorageModule"
-            android:value="com.project.storge.DemoStorageModule" />
+            android:value="com.project.storage.DemoStorageModule" />
     </application>
 
 </manifest>
